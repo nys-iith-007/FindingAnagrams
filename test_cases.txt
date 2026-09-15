@@ -1,0 +1,3 @@
+listen -> enlist, inlets, listen, silent
+stone -> notes, onset, stone, tones
+eat -> ate, eat, tea
